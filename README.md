@@ -134,3 +134,5 @@ learned the basic form of an SQL Query, the structured query language, for retri
 There are many additional topics and further queries that were not discussed in this exercise such as joining multiple
 tables together, computing statistical functions on columns, and nesting queries. These topics are discussed in much
 greater detail in CS 1555: Database Management Systems.
+
+Test
